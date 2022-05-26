@@ -9,9 +9,14 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import axios from "axios";
 
 export default defineComponent({
   name: "Home",
   components: {},
+  async setup() {
+    const r = await axios.get("http://localhost:3000", {});
+    console.log(r);
+  },
 });
 </script>

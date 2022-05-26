@@ -24,4 +24,5 @@ npm run electron:build
 
 ## Usage libraries.
 
-    - [ ] Axios.
+    [x] Axios.
+        [ ] Create Axios instance.
