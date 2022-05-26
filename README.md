@@ -1,6 +1,6 @@
-# Hello vue electron
+# Hello Vue Electron
 
-This is a sample which Vue application as Electron.
+This is a sample application which Electron + Vue3 + Typescript + Tailwind CSS.
 
 ## Project setup
 
@@ -8,16 +8,20 @@ This is a sample which Vue application as Electron.
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 
 ```
 npm run serve
 npm run electron:serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 
 ```
 npm run build
 npm run electron:build
 ```
+
+## Usage libraries.
+
+    - [ ] Axios.
