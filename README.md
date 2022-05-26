@@ -21,7 +21,3 @@ npm run electron:serve
 npm run build
 npm run electron:build
 ```
-
-## Usage libraries.
-
-    - [ ] Axios.
